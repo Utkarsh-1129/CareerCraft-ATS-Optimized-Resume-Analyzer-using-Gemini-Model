@@ -1,0 +1,2 @@
+# CareerCraft-ATS-Optimized-Resume-Analyzer-using-Gemini-Model
+ATS Resume Analyzer is a web-based application designed to assist job seekers in optimizing their resumes for Applicant Tracking Systems (ATS). This intelligent tool evaluates a resume against a specific job description, providing detailed feedback on how well the resume aligns with the desired qualifications and skills outlined in the job posting.
